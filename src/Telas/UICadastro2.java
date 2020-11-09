@@ -45,7 +45,7 @@ public class UICadastro2 extends javax.swing.JFrame {
                     txtCEP.setText(null);
                     txtCidade.setText(null);
                     txtData.setText(null);
-        UIMenu entrar = new UIMenu();
+        TelaAtenção entrar = new TelaAtenção();
         entrar.setVisible(true);
         this.dispose();
                 }

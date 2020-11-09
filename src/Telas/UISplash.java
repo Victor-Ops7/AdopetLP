@@ -22,11 +22,11 @@ public class UISplash extends javax.swing.JFrame {
         initComponents();
          new Thread() {
             public void run() {
-                for (int i = 1; i <= 50 ; i++) {
+                for (int i = 1; i <= 25 ; i++) {
                     Barra.setValue(i);
                     try {
                         sleep(100);
-                        if (i == 50){
+                        if (i == 25){
                             UILogin login = new UILogin();
                             login.setVisible(true);
                             dispose();
