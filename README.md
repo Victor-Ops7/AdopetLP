@@ -1,6 +1,8 @@
 # AdopetLP
 Repositorio para a AC2 de Linguagem de Programação. 
 
+Loja Fictícia Adopet, Onde vai conter os Produtos para Animais Adotivos.
+
 Contendo a Logo e Nome para a Loja Fictícia,
 Diagrama de Classes,
 Diagrama de Entidade,
